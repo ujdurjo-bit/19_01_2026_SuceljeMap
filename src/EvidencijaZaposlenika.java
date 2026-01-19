@@ -1,0 +1,2 @@
+public class Zadatak1 {
+}
