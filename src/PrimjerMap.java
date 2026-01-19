@@ -1,7 +1,6 @@
 import java.util.HashMap;
-import java.util.TreeMap;
 
-public class Main {
+public class PrimjerMap {
     public static void main(String[] args) {
 //        TreeMap<String, Integer> map = new TreeMap<>();
         HashMap<String, Integer> map = new HashMap<>();
