@@ -75,7 +75,7 @@ public class EvidencijaZaposlenika {
                     for (Polaznik p : listaPolaznika) {
                         System.out.println(p.ime + " " + p.prezime + " - " + p.email);
                     }
-                        break;
+                    break;
 
                 case 3:
                     // Pretraga po emailu
@@ -101,8 +101,8 @@ public class EvidencijaZaposlenika {
                     System.err.println("Neispravan izbor!");
             }
 
-            }
         }
-
     }
+
+}
 
